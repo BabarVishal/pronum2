@@ -281,6 +281,11 @@ ul{
         display: block;
         cursor: pointer;
     }
+    .col-5 img{
+/*     width: 100%;
+    cursor: pointer; */
+    filter: grayscale(100%);
+}
 
     
 }
